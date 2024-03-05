@@ -1,0 +1,8 @@
+fiona==1.9.5
+geopandas==0.14.1
+matplotlib==3.5.2
+matplotlib-inline==0.1.6
+openpyxl==3.0.10
+pandas==1.4.3
+seaborn==0.12.1
+numpy==1.22.4
